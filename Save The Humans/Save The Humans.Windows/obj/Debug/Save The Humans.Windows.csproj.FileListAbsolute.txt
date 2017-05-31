@@ -1,0 +1,32 @@
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\App.xbf
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\MainPage.xbf
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\Save The Humans.Windows.xr.xml
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\Save The Humans.Windows.exe
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\Save The Humans.Windows.pdb
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\resources.pri
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\Save The Humans.Windows.build.appxrecipe
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\App.g.i.cs
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\App.g.cs
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\App.xaml
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\MainPage.xaml
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\App.xbf
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\MainPage.xbf
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\Save The Humans.Windows.exe
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\Save The Humans.Windows.pdb
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\priconfig.xml
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\layout.resfiles
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\resources.resfiles
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\pri.resfiles
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\qualifiers.txt
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\ProjectArchitectures.txt

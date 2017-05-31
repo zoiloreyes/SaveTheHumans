@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-1J4O75L</Machine>
+    <WindowsUser>Zoilo Reyes</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c2a4cc39-0805-4ed0-8a96-705cd8eb3c21</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Zoilo Reyes</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>8332AE7C732E899629A56C45E3EA2246CCB3B96A86E533D322F5D40F5E1DD052</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c2a4cc39-0805-4ed0-8a96-705cd8eb3c21_1.0.0.0_neutral__5xdc6fp9kd352</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c2a4cc39-0805-4ed0-8a96-705cd8eb3c21_5xdc6fp9kd352!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c2a4cc39-0805-4ed0-8a96-705cd8eb3c21</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Zoilo Reyes</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-12T16:50:04.278</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\Save The Humans.Windows.exe">
+      <PackagePath>Save The Humans.Windows.exe</PackagePath>
+      <Modified>2017-05-15T02:03:17.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T02:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T02:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-15T02:09:14.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T02:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\Save The Humans.Windows.xr.xml">
+      <PackagePath>Save The Humans.Windows.xr.xml</PackagePath>
+      <Modified>2017-05-15T02:03:16.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-05-12T16:50:00.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-05-15T02:03:17.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zoilo Reyes\Documents\ITLA\Programación 3\Save The Humans\Save The Humans\Save The Humans.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-12T16:50:03.009</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
